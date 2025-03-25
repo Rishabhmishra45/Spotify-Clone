@@ -30,7 +30,7 @@ const songs = [
         title: "ANIMAL",
         artist: "Manan Bhardwaj, Vishal Mishra, Jaani",
         cover: "images/item-6.jpg",
-        audio: "songs/_Chhad_Dila__Lehmber_Hussainpuri_Full_Video_Song___Chhad_Dila___Latest_Punjabi_Song_2014(256k).mp3"
+        audio: "songs/1.mp3"
     },
     {
         title: "Still Rollin",
